@@ -49,7 +49,7 @@ jupyter>=1.0.0
 ## 📁 Project Structure
 
 ```
-├── vgg16_mnist_classification.ipynb    # Main Jupyter notebook containing all code
+├── VGG16_MNIST_Classification.ipynb    # Main Jupyter notebook containing all code
 └── requirements.txt                    # Project dependencies
 ```
 
@@ -111,10 +111,10 @@ If you use this code in your research, please cite:
 
 ```bibtex
 @software{vgg16_mnist_transfer,
-  author = {Your Name},
+  author = {Robert Yaw Agyekum Addo},
   title = {VGG16 Transfer Learning for MNIST Classification},
   year = {2024},
-  url = {https://github.com/yourusername/vgg16-mnist}
+  url = {https://github.com/ROBERT-ADDO-ASANTE-DARKO/VGG16-Transfer-Learning-MNIST-Classification}
 }
 ```
 
