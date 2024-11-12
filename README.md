@@ -114,7 +114,7 @@ If you use this code in your research, please cite:
   author = {Robert Yaw Agyekum Addo},
   title = {VGG16 Transfer Learning for MNIST Classification},
   year = {2024},
-  url = {https://github.com/ROBERT-ADDO-ASANTE-DARKO/VGG16-Transfer-Learning-MNIST-Classification}
+  url = {https://github.com/ROBERT-ADDO-ASANTE-DARKO/GO2COD_ML_02}
 }
 ```
 
